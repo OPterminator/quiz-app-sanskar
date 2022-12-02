@@ -2,7 +2,7 @@
   "name": "quiz-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://localhost:3000/quiz-app-ReactJS/",
+  "homepage": "https://OPterminator.github.io/quiz-app-ReactJS/",
   "dependencies": {
     "@emotion/react": "^11.7.1",
     "@emotion/styled": "^11.6.0",
