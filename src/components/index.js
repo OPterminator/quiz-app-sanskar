@@ -39,9 +39,10 @@ const QuizApp = () => {
 function Index() {
   
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Routes>
         <Route exact path='/quiz-app-ReactJS' element={<QuizApp />}></Route>
+        <Route exact path='/quiz-app-sanskar' element={<QuizApp />}></Route>
         <Route exact path='/scoreboard' element={<ScoreBoard />}></Route>
       </Routes>
     </Router>
