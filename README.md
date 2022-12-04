@@ -1,3 +1,8 @@
+Quiz app which enables institutes to conduct online quizzes
+All MCQ jumping to random questions final marking matrix and user friendly UX are the 
+Highlights of this app
+Made using react and javascript
+HTML CSS
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
