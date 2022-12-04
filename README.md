@@ -3,6 +3,8 @@ All MCQ jumping to random questions final marking matrix and user friendly UX ar
 Highlights of this app
 Made using react and javascript
 HTML CSS
+Design is made is using material UI
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
